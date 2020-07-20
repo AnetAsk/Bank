@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dP4kdWfp8GlVMQhyMcu5uGLaTFBmjHbNUyn/JQU9mDI0BR8ukrICGUgTBguj40LW87v2DBp+WY6Kx8RMOUyqCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askar\\source\\repos\\Bank\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
